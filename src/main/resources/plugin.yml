@@ -1,0 +1,11 @@
+name: ClearPlacedBlocks
+version: '${project.version}'
+main: com.eofitg.clearplacedblocks.ClearPlacedBlocks
+prefix: CPB
+load: STARTUP
+authors: [eofitg]
+website: https://github.com/eofitg/Clear-Placed-Blocks
+commands:
+  clearblocks:
+    description: Clears all blocks placed by players
+    usage: /clearblocks
