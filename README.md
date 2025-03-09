@@ -7,4 +7,4 @@
 - Automatically clear all placed blocks when the server shuts down.
 
 ### Notes
-This plugin has only been tested on Minecraft 1.8.8.
+This plugin has only been tested on Minecraft 1.8.8 Paper Server.
