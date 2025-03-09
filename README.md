@@ -1,6 +1,6 @@
-# ClearPlacedBlocks
+# Clear-Placed-Blocks
 
-**ClearPlacedBlocks** is a Minecraft plugin that automatically deletes blocks placed by players. 
+**Clear-Placed-Blocks** is a Minecraft plugin that automatically deletes blocks placed by players. 
 
 ### Features
 - Manually delete all blocks placed by players using the `/clearblocks` command.
